@@ -1,6 +1,4 @@
-تفضل، هذا الكود نظيف وجاهز للرفع على GitHub بدون أي تعليقات:
 
-```cpp
 #include <Servo.h>
 
 Servo servo1;
